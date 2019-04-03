@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DBGame</name>
+    </assembly>
+    <members>
+        <member name="T:DBGame.Program">
+            <summary>
+            Creating data base in c/databases
+            </summary>
+        </member>
+    </members>
+</doc>

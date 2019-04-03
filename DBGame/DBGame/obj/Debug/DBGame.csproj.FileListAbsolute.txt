@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\bin\Debug\DBGame.exe.config
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\bin\Debug\DBGame.exe
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\bin\Debug\DBGame.pdb
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\obj\Debug\DBGame.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\obj\Debug\DBGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\obj\Debug\DBGame.csproj.CopyComplete
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\obj\Debug\DBGame.exe
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\obj\Debug\DBGame.pdb
+\\Mac\Home\Desktop\Telhai\C#\FinalProject\DBGame\DBGame\bin\Debug\DBGame.xml
